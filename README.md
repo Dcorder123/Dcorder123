@@ -1,7 +1,7 @@
 ### Oi, eu sou o Daniel Barbosa
 
 - 🔭 Atualmente estudo Engenharia De Computação no Instituto Federal Da Paraiba(IFPB).
-- 🌱 Estudando linguagens de programação como C, Python e JavaScript.
+- 🌱 Estudando linguagens de programação como C e Python.
 - 📊 Fazendo estudos sobre DataScience.
 - 📫 Contate-me pelo Email: vascomcelosdaniel@hotmail.com
 <div style="display: inline_block"><br>
