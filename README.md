@@ -15,7 +15,6 @@
   <a href="https://github.com/Dcorder123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dcorder123&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcorder123&layout=compact&langs_count=7&theme=blue-green"/>
-  <img align="right" alt="cara aleatorio-pic" height="150" style="border-radius:50px;" src="https://j.gifs.com/8qyzr5.gif">
 </div>
   
  ##
