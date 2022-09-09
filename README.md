@@ -15,7 +15,7 @@
   <a href="https://github.com/Dcorder123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dcorder123&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcorder123&layout=compact&langs_count=7&theme=blue-green"/>
-  <img align="right" alt="cara aleatorio-pic" height="150" style="border-radius:50px;" src="[[https://i.kym-cdn.com/photos/images/original/000/724/012/6be.gif](https://64.media.tumblr.com/f293270c91dccecd81bd8aaff4d2a35f/tumblr_owk45nxhXT1qccdlto1_1280.gifv)](https://64.media.tumblr.com/f293270c91dccecd81bd8aaff4d2a35f/tumblr_owk45nxhXT1qccdlto1_250.gifv)](https://j.gifs.com/8qyzr5@large.gif?download=true)">
+  <img align="right" alt="cara aleatorio-pic" height="150" style="border-radius:50px;" src="https://j.gifs.com/8qyzr5.gif">
 </div>
   
  ##
