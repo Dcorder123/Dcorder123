@@ -5,7 +5,7 @@
 ### Oi, eu sou o Daniel Barbosa
 
 - 🔭 Atualmente estudo Engenharia De Computação no Instituto Federal Da Paraiba(IFPB).
-- 🌱 Estudando linguagens de programação como C e Python.
+- 🌱 Estudando linguagens de programação como C++ e Python.
 - 📊 Fazendo estudos sobre DataScience.
 - 📫 Contate-me pelo Email: vascomcelosdaniel@hotmail.com
 <div style="display: inline_block"><br>
@@ -13,6 +13,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 ### &#x1f4c8; GitHub Stats
