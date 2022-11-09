@@ -1,7 +1,6 @@
 <h3>
 <p align="center">Welcome!<img align="center" src="https://pa1.narvii.com/6617/143a90ed417324ed052b981c2b7ee4878c8e1506_hq.gif" height="75px"/></p>
-<p align="center">test!<img align="center" src="[https://pa1.narvii.com/6617/143a90ed417324ed052b981c2b7ee4878c8e1506_hq.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fkawaibear7%2Fart%2FLuffy-and-Zoro-Gif-812028793&psig=AOvVaw3aTB7-XDbDX8QoncISXoPs&ust=1668055959844000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCA4O2moPsCFQAAAAAdAAAAABAW)" height="75px"/></p>
-<h3/><hr/>
+<p align="center">test!<img align="center" src="[[https://pa1.narvii.com/6617/143a90ed417324ed052b981c2b7ee4878c8e1506_hq.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fkawaibear7%2Fart%2FLuffy-and-Zoro-Gif-812028793&psig=AOvVaw3aTB7-XDbDX8QoncISXoPs&ust=1668055959844000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCA4O2moPsCFQAAAAAdAAAAABAW)](https://i.pinimg.com/originals/23/b8/cc/23b8ccd4d62a74024e383248389a478b.gif)" height="75px"/></p>
 <h3/><hr/>
 
 ### Oi, eu sou o Daniel Barbosa
