@@ -62,6 +62,7 @@
   <a href="https://www.linkedin.com/in/daniel-barbosa-vasconcelos-7b097122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
- ##
+<br>
+<h2 align="center"><i> 🐍 Commits: </i></h2>   
   
 ![Snake animation](https://github.com/Dcorder123/Dcorder123/blob/output/github-contribution-grid-snake.svg)
