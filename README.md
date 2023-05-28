@@ -55,9 +55,12 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <br>
-</div align="center">
+</div>
+<div align="center">
 ### &#x1f4c8; GitHub Stats
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dcorder123&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcorder123&layout=compact&langs_count=7&theme=merko"/>
+</div>
+  
   
  ##
   
