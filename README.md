@@ -54,10 +54,13 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dcorder123&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcorder123&layout=compact&langs_count=7&theme=merko"/>
 </div>
 <br>
+<div align="center">
+  <img align="center" alt="Daniel-Gif" height="150" width="150" src="https://media.discordapp.net/attachments/882958483467307028/882958526837803274/ezgif.com-gif-maker.gif">
 <h2 align="center"><i> 🌌 Social media: </i></h2> 
 <a href="https://www.instagram.com/daniel_barbosa_vasconcelos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vasconcelos.barbosa@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-barbosa-vasconcelos-7b097122b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <br>
  ##
   
