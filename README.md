@@ -46,10 +46,10 @@
         <img align="center" title="Daniel_Linux" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
       </td>
     </tr>
-      <td align="center">
-        <img align="center" title="Daniel_flutter" alt="flutter" height="30" width="40" src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-        <img align="center" title="Daniel_Dart" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    <td align="center">
+      <img align="center" title="Daniel_flutter" alt="flutter" height="30" width="40" src="
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+      <img align="center" title="Daniel_Dart" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
       </td>   
       <td align="center">
        <img align="center" title="Daniel_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
