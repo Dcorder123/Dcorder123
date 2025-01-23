@@ -69,7 +69,8 @@
 </div>
 <br>
 <br>
-## 🚀 Contribuições em Projetos  
+🚀 Contribuições em Projetos 
+<br>
 Aqui estão alguns projetos incríveis nos quais contribuí:  
-
+<br>
 - 🛠 [Saude_Senior](https://github.com/AryelSouza/Saude_Senior.git) - Fiz parte da equipe desenvolvedora
