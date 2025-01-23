@@ -20,45 +20,38 @@
 <div align="center">
   <table>
      <tr>
-        <td align="center">Estudei:</td>
-        <td align="center">Estudando:</td>
-        <td align="center">Estudarei:</td>
+        <th>Estudei:</th>
+        <th>Estudando:</th>
+        <th>Estudarei:</th>
       </tr>
       <tr>
     <td align="center">
-      <img align="center" title="Daniel_Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" title="Daniel_Jupyter" alt="Jupyter" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
-      <img align="center" title="Daniel_HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" title="Daniel_CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img title="Daniel_Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img title="Daniel_Jupyter" alt="Jupyter" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+      <img title="Daniel_HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img title="Daniel_CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <br>
+      <img title="Daniel_C" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+      <img title="Daniel_Cplusplus" alt="C++" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
+      <img title="Daniel_JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img title="Daniel_Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+      <br>
+      <img title="Daniel_MySQL" alt="MySQL" height="30" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
+      <img title="Daniel_Linux" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
     </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img align="center" title="Daniel_C" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
-        <img align="center" title="Daniel_Cplusplus" alt="C++" height="30" width="40" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg">
-        <img align="center" title="Daniel_JavaScript" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" title="Daniel_Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img align="center" title="Daniel_MySQL" alt="MySQL" height="30" width="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
-        <img align="center" title="Daniel_Linux" alt="Linux" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png">
-      </td>
-    </tr>
     <td align="center">
-      <img align="center" title="Daniel_flutter" alt="flutter" height="30" width="40" src="
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-      <img align="center" title="Daniel_Dart" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-      </td>   
-      <td align="center">
-       <img align="center" title="Daniel_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
-       <img align="center" title="Daniel_Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
-       <img align="center" title="Daniel_Clojure" alt="Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
+      <img title="Daniel_flutter" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+      <img title="Daniel_Dart" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+    </td>   
+    <td align="center">
+       <img title="Daniel_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
+       <img title="Daniel_Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
+       <img title="Daniel_Clojure" alt="Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
     </td>
     </tr>
   </table>
 </div>
+
 
 <div align="center">
 ### &#x1f4c8; GitHub Stats <br>
