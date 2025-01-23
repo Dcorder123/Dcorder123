@@ -40,7 +40,7 @@
       </td>
       <td align="center">
         <img align="center" title="Daniel_flutter" alt="flutter" height="30" width="40" src="
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
         <img align="center" title="Daniel_Dart" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
       </td>   
       <td align="center">
