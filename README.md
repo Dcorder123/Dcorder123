@@ -69,6 +69,7 @@
 </div>
 <br>
 <br>
-<h2 align="center"><i> 🐍 Commits: </i></h2>   
-  
-![Snake animation](https://github.com/Dcorder123/Dcorder123/blob/output/github-contribution-grid-snake.svg)
+## 🚀 Contribuições em Projetos  
+Aqui estão alguns projetos incríveis nos quais contribuí:  
+
+- 🛠 [Saude_Senior](https://github.com/AryelSouza/Saude_Senior.git) - Fiz parte da equipe desenvolvedora
