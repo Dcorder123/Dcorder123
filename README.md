@@ -45,8 +45,10 @@
     </td>   
     <td align="center">
        <img title="Daniel_SpringBoot" alt="SpringBoot" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png">
-       <img title="Daniel_Postman" alt="Postman" height="30" width="40" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png">
+       <img title="Daniel_Postman" alt="Postman" height="30" width="40" 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
        <img title="Daniel_Clojure" alt="Clojure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/256px-Clojure_logo.svg.png">
+       <img title="Daniel_React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </td>
     </tr>
   </table>
