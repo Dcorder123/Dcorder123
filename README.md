@@ -77,3 +77,4 @@
 Aqui estão alguns projetos incríveis nos quais contribuí:  
 <br>
 - 🛠 [Saude_Senior](https://github.com/AryelSouza/Saude_Senior.git) - Fiz parte da equipe desenvolvedora
+- 🛠 [Go_terminal](https://github.com/Dcorder123/go-in-terminal.git) - desenvolvimento de um terminal em Go
